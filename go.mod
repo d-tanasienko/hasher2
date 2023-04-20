@@ -1,4 +1,4 @@
-module hasher2
+module github.com/d-tanasienko/hasher2
 
 go 1.18
 
